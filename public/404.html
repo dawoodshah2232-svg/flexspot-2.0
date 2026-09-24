@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Redirecting…</title>
+    <script>
+      // GitHub Pages SPA fallback: any deep link lands here as a 404.
+      // Encode the path in the query string and bounce to the app root,
+      // where index.html's boot script restores it via history.replaceState.
+      (function () {
+        var base = "/flexspot-2.0";
+        var path = location.pathname;
+        var rest = path.indexOf(base) === 0 ? path.slice(base.length) : path;
+        var target =
+          base +
+          "/?p=" +
+          encodeURIComponent(rest + location.search + location.hash);
+        location.replace(target);
+      })();
+    </script>
+  </head>
+  <body>
+    <noscript>
+      <p>This page needs JavaScript. <a href="/flexspot-2.0/">Go home</a>.</p>
+    </noscript>
+  </body>
+</html>
