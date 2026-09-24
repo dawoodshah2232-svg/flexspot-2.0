@@ -2,11 +2,10 @@ import { Link, NavLink } from "react-router-dom";
 import "./Header.css";
 
 const NAV_LINKS = [
-  { to: "/", label: "Home" },
-  // Future sections (added by later workers):
-  // { to: "/products", label: "Products" },
-  // { to: "/compare", label: "Compare" },
-  // { to: "/about", label: "About" },
+  { to: "/", label: "Home", end: true },
+  { to: "/category/smartphones", label: "Phones" },
+  { to: "/search", label: "Search" },
+  { to: "/blog", label: "Guides" },
 ];
 
 export default function Header() {
@@ -24,6 +23,7 @@ export default function Header() {
             <NavLink
               key={link.to}
               to={link.to}
+              end={link.end}
               className={({ isActive }) =>
                 isActive ? "site-nav__link site-nav__link--active" : "site-nav__link"
               }

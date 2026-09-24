@@ -1,0 +1,98 @@
+/* ---- Snap-scroll product gallery ---- */
+.gallery {
+  position: relative;
+}
+
+.gallery__rail {
+  display: flex;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-lg);
+  background: var(--color-bg-deep);
+  scrollbar-width: thin;
+  scrollbar-color: var(--color-gold-deep) transparent;
+}
+
+.gallery__slide {
+  flex: 0 0 100%;
+  scroll-snap-align: center;
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 18rem;
+  padding: var(--space-4);
+}
+
+.gallery__slide img {
+  max-height: 22rem;
+  width: auto;
+  max-width: 100%;
+  object-fit: contain;
+  border-radius: var(--radius-md);
+  -webkit-user-drag: none;
+  user-select: none;
+}
+
+.gallery__ui {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--space-3);
+  margin-top: var(--space-3);
+}
+
+.gallery__nav {
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 50%;
+  border: 1px solid var(--color-line);
+  background: var(--color-bg-raised);
+  color: var(--color-gold-soft);
+  font-size: var(--text-base);
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  transition: border-color var(--duration-fast) var(--ease-out);
+}
+.gallery__nav:hover { border-color: var(--color-gold-deep); }
+
+/* Native swipe is the primary interaction on touch — buttons
+   are still useful, but keep the chrome minimal. */
+@media (hover: none) {
+  .gallery__nav { opacity: 0.85; }
+}
+
+.gallery__dots {
+  display: flex;
+  gap: var(--space-2);
+}
+
+.gallery__dot {
+  width: 0.625rem;
+  height: 0.625rem;
+  border-radius: 50%;
+  border: 0;
+  padding: 0;
+  background: var(--color-line);
+  transition: background var(--duration-fast) var(--ease-out), transform var(--duration-fast) var(--ease-out);
+}
+.gallery__dot--active {
+  background: var(--color-gold);
+  transform: scale(1.25);
+}
+
+.gallery__count {
+  margin: var(--space-2) 0 0;
+  text-align: center;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  letter-spacing: 0.08em;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .gallery__rail { scroll-behavior: auto; }
+}

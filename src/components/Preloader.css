@@ -1,0 +1,92 @@
+/* ---- Branded preloader (dark/gold) ---- */
+.preloader {
+  position: fixed;
+  inset: 0;
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background:
+    radial-gradient(50% 40% at 50% 42%, rgba(212, 175, 55, 0.09), transparent 70%),
+    var(--color-bg-deep);
+  opacity: 1;
+  visibility: visible;
+  transition: opacity 420ms var(--ease-out), visibility 420ms;
+  pointer-events: all;
+}
+
+.preloader--leaving {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.preloader__inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-3);
+  padding: var(--space-6);
+  text-align: center;
+}
+
+.preloader__mark {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3.5rem;
+  height: 3.5rem;
+  border-radius: var(--radius-lg);
+  background: linear-gradient(135deg, var(--color-gold-soft), var(--color-gold));
+  color: #14100a;
+  font-weight: var(--weight-extrabold);
+  font-size: var(--text-xl);
+  box-shadow: 0 0 48px rgba(212, 175, 55, 0.35);
+  /* GPU-friendly: transform + opacity only */
+  animation: preloader-pulse 1.6s var(--ease-out) infinite;
+}
+
+@keyframes preloader-pulse {
+  0%, 100% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.06); opacity: 0.92; }
+}
+
+.preloader__wordmark {
+  margin: 0;
+  font-size: var(--text-xl);
+  font-weight: var(--weight-bold);
+  letter-spacing: 0.02em;
+  color: var(--color-text);
+}
+
+.preloader__track {
+  width: 12rem;
+  max-width: 60vw;
+  height: 3px;
+  border-radius: var(--radius-pill);
+  background: var(--color-line);
+  overflow: hidden;
+}
+
+.preloader__fill {
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, var(--color-gold-deep), var(--color-gold-soft));
+  transition: width 120ms linear;
+}
+
+.preloader__pct {
+  margin: 0;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+  letter-spacing: 0.08em;
+}
+
+/* Reduced motion: no pulse; the component also skips rendering,
+   but this keeps any residual state static and instant. */
+@media (prefers-reduced-motion: reduce) {
+  .preloader { transition: none; }
+  .preloader__mark { animation: none; }
+  .preloader__fill { transition: none; }
+}

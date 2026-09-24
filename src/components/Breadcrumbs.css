@@ -1,0 +1,13 @@
+.crumbs ol {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0 0 var(--space-6);
+  padding: 0;
+  list-style: none;
+  font-size: var(--text-sm);
+  color: var(--color-text-faint);
+}
+.crumbs li + li::before { content: "›"; margin-right: 0.5rem; color: var(--color-gold-deep); }
+.crumbs a { color: var(--color-gold-soft); }
+.crumbs [aria-current="page"] { color: var(--color-text-muted); }

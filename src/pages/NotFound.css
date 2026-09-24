@@ -2,3 +2,9 @@
   text-align: center;
   padding: var(--space-24) 0;
 }
+.notfound__links {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--space-3);
+}

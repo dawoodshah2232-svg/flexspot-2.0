@@ -1,0 +1,4785 @@
+[
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "iPhone 18 Pro",
+  "price_usd": 1199,
+  "slug": "iphone-18-pro",
+  "sources": [
+   "https://9to5mac.com/2026/09/09/iphone-18-pro-officially-announced-heres-whats-new/",
+   "https://www.dropguys.com/blogs/news/iphone-18-release-date-buying-guide"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": "50% charge in ~15 minutes wired",
+   "chipset": "Apple A20 Pro (2nm)",
+   "dimensions": null,
+   "display_size": "6.3-inch",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": "24MP",
+   "os": "iOS 27",
+   "ram": "12GB",
+   "rear_cameras": "48MP Fusion main (variable aperture f/1.48-f/4) + 48MP ultra-wide + 48MP telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB",
+    "2TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Apple's 2026 flagship with a 2nm A20 Pro chip and the first variable-aperture iPhone camera.",
+  "videos": []
+ },
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "iPhone 18 Pro Max",
+  "price_usd": 1299,
+  "slug": "iphone-18-pro-max",
+  "sources": [
+   "https://9to5mac.com/2026/09/09/iphone-18-pro-officially-announced-heres-whats-new/",
+   "https://www.dropguys.com/blogs/news/iphone-18-release-date-buying-guide"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": "50% charge in ~15 minutes wired",
+   "chipset": "Apple A20 Pro (2nm)",
+   "dimensions": null,
+   "display_size": "6.9-inch",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": "24MP",
+   "os": "iOS 27",
+   "ram": "12GB",
+   "rear_cameras": "48MP Fusion main (variable aperture f/1.48-f/4) + 48MP ultra-wide + 48MP telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB",
+    "2TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "The biggest iPhone ever: 6.9-inch display, A20 Pro, and Apple's longest battery life.",
+  "videos": []
+ },
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "iPhone Duo",
+  "price_usd": 1999,
+  "slug": "iphone-duo",
+  "sources": [
+   "https://www.creativebloq.com/news/live/apple-event-2026"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Apple A20 Pro (2nm)",
+   "dimensions": null,
+   "display_size": "7.6-inch inner + 5.4-inch outer",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": null,
+   "os": "iOS 27",
+   "ram": null,
+   "rear_cameras": "48MP Fusion main",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": null,
+   "weight": null
+  },
+  "tagline": "Apple's first foldable iPhone: a book-style fold with a 7.6-inch inner display.",
+  "videos": []
+ },
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Black_iPhone_17.jpg/250px-Black_iPhone_17.jpg"
+  ],
+  "name": "iPhone 17",
+  "price_usd": 799,
+  "slug": "iphone-17",
+  "sources": [
+   "https://www.apple.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Apple A19",
+   "dimensions": null,
+   "display_size": "6.3-inch",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": "18MP Center Stage",
+   "os": "iOS 26",
+   "ram": "8GB",
+   "rear_cameras": "48MP Fusion main + 48MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "The 2025 standard iPhone: 120Hz ProMotion display and dual 48MP cameras.",
+  "videos": []
+ },
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "iPhone 17 Pro",
+  "price_usd": 999,
+  "slug": "iphone-17-pro",
+  "sources": [
+   "https://www.apple.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Apple A19 Pro",
+   "dimensions": null,
+   "display_size": "6.3-inch",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": "18MP Center Stage",
+   "os": "iOS 26",
+   "ram": "12GB",
+   "rear_cameras": "48MP Fusion main + 48MP ultra-wide + 48MP telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2025 Pro with A19 Pro chip, triple 48MP cameras and a vapor chamber.",
+  "videos": []
+ },
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Silver_iPhone_17_Pro_Max.jpg/1280px-Silver_iPhone_17_Pro_Max.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Deep_Blue_iPhone_17_Pro_Max.jpg/1280px-Deep_Blue_iPhone_17_Pro_Max.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail"
+  ],
+  "name": "iPhone 17 Pro Max",
+  "price_usd": 1199,
+  "slug": "iphone-17-pro-max",
+  "sources": [
+   "https://www.apple.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Apple A19 Pro",
+   "dimensions": null,
+   "display_size": "6.9-inch",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": "18MP Center Stage",
+   "os": "iOS 26",
+   "ram": "12GB",
+   "rear_cameras": "48MP Fusion main + 48MP ultra-wide + 48MP telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "The 2025 large-format Pro: 6.9-inch display and the best iPhone battery of its generation.",
+  "videos": []
+ },
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Light_Gold_iPhone_Air.jpg/1280px-Light_Gold_iPhone_Air.jpg?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/2/20/IPhone_Air_Vector.svg"
+  ],
+  "name": "iPhone Air",
+  "price_usd": 999,
+  "slug": "iphone-air",
+  "sources": [
+   "https://www.apple.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Apple A19 Pro",
+   "dimensions": "5.6mm thin",
+   "display_size": "6.5-inch",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": "18MP Center Stage",
+   "os": "iOS 26",
+   "ram": "12GB",
+   "rear_cameras": "48MP Fusion main (single camera)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "The thinnest iPhone ever at 5.6mm, with A19 Pro power in a featherweight titanium body.",
+  "videos": []
+ },
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "iPhone 16",
+  "price_usd": 799,
+  "slug": "iphone-16",
+  "sources": [
+   "https://www.apple.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Apple A18",
+   "dimensions": null,
+   "display_size": "6.1-inch",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": "12MP",
+   "os": "iOS 18",
+   "ram": "8GB",
+   "rear_cameras": "48MP Fusion main + 12MP ultra-wide",
+   "refresh_rate": "60Hz",
+   "storage": [
+    "128GB",
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 standard iPhone with A18 chip, Camera Control and Apple Intelligence.",
+  "videos": []
+ },
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Back_view_of_iPhone_16_Pro_White_Titanium.jpg/1280px-Back_view_of_iPhone_16_Pro_White_Titanium.jpg"
+  ],
+  "name": "iPhone 16 Pro",
+  "price_usd": 999,
+  "slug": "iphone-16-pro",
+  "sources": [
+   "https://www.apple.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Apple A18 Pro",
+   "dimensions": null,
+   "display_size": "6.3-inch",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": "12MP",
+   "os": "iOS 18",
+   "ram": "8GB",
+   "rear_cameras": "48MP Fusion main + 48MP ultra-wide + 12MP 5x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 Pro flagship: A18 Pro, triple 48MP cameras and 5x tetraprism telephoto.",
+  "videos": []
+ },
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "iPhone 16e",
+  "price_usd": 599,
+  "slug": "iphone-16e",
+  "sources": [
+   "https://www.apple.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Apple A18",
+   "dimensions": null,
+   "display_size": "6.1-inch",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": "12MP",
+   "os": "iOS 18",
+   "ram": "8GB",
+   "rear_cameras": "48MP Fusion main (single camera)",
+   "refresh_rate": "60Hz",
+   "storage": [
+    "128GB",
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Apple's affordable 2025 iPhone: A18 chip and Apple Intelligence at the lowest price.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Galaxy_S26.jpg/960px-Galaxy_S26.jpg?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail",
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Samsung_Galaxy_S26%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA.jpg/1280px-Samsung_Galaxy_S26%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA.jpg"
+  ],
+  "name": "Galaxy S26",
+  "price_usd": 900,
+  "slug": "galaxy-s26",
+  "sources": [
+   "https://www.archynewsy.com/samsung-galaxy-s26-price-specs-release-date-s26-ultra-buds4/",
+   "https://www.phonescoop.com/articles/article.php?a=23677"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4300mAh",
+   "charging": "25W wired, 15W wireless",
+   "chipset": "Exynos 2600 (global) / Snapdragon 8 Elite Gen 5 for Galaxy (US)",
+   "dimensions": null,
+   "display_size": "6.27-inch",
+   "display_type": "Dynamic AMOLED 2X",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "12MP",
+   "os": "Android 16 (One UI 8.5)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide + 10MP telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Samsung's 2026 compact flagship with a new 2nm Exynos 2600 and Galaxy AI.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Galaxy S26+",
+  "price_usd": 1100,
+  "slug": "galaxy-s26-plus",
+  "sources": [
+   "https://www.archynewsy.com/samsung-galaxy-s26-price-specs-release-date-s26-ultra-buds4/",
+   "https://www.phonescoop.com/articles/article.php?a=23677"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4900mAh",
+   "charging": "45W wired, 15W wireless",
+   "chipset": "Exynos 2600 (global) / Snapdragon 8 Elite Gen 5 for Galaxy (US)",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "Dynamic AMOLED 2X",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "12MP",
+   "os": "Android 16 (One UI 8.5)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide + 10MP telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "The big-screen S26: larger 6.7-inch display, 4900mAh battery and 45W charging.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Galaxy_S26_Ultra_lavender.jpg/960px-Galaxy_S26_Ultra_lavender.jpg",
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Samsung_Galaxy_S26_Ultra_2026.jpg/800px-Samsung_Galaxy_S26_Ultra_2026.jpg"
+  ],
+  "name": "Galaxy S26 Ultra",
+  "price_usd": 1300,
+  "slug": "galaxy-s26-ultra",
+  "sources": [
+   "https://www.archynewsy.com/samsung-galaxy-s26-price-specs-release-date-s26-ultra-buds4/",
+   "https://www.tomsguide.com/phones/samsung-phones/galaxy-s26-ultra-announced-privacy-display-new-galaxy-ai-features-different-prices-and-more"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "60W wired (75% in ~30 min), wireless",
+   "chipset": "Snapdragon 8 Elite Gen 5 for Galaxy",
+   "dimensions": null,
+   "display_size": "6.9-inch",
+   "display_type": "Dynamic AMOLED 2X with Privacy Display",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "12MP",
+   "os": "Android 16 (One UI 8.5)",
+   "ram": "12GB",
+   "rear_cameras": "200MP main + 50MP 5x telephoto + 10MP 3x telephoto + 12MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Samsung's 2026 Ultra: 200MP camera, world-first Privacy Display, 60W charging and built-in S Pen.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://image-us.samsung.com/us/smartphones/galaxy-s25/images/galaxy-s25-features-kv.jpg?imbypass=true",
+   "https://images.samsung.com/ro/smartphones/galaxy-s25/buy/11_See-Actual-Size/See-Actual-Size_inch-cm_PC.jpg?$ORIGIN_JPG$"
+  ],
+  "name": "Galaxy S25",
+  "price_usd": 800,
+  "slug": "galaxy-s25",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4000mAh",
+   "charging": "25W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Elite for Galaxy",
+   "dimensions": null,
+   "display_size": "6.2-inch",
+   "display_type": "Dynamic AMOLED 2X",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "12MP",
+   "os": "Android 15 (One UI 7)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide + 10MP 3x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2025 compact Galaxy flagship: Snapdragon 8 Elite and Galaxy AI in a 6.2-inch body.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Galaxy S25+",
+  "price_usd": 1000,
+  "slug": "galaxy-s25-plus",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4900mAh",
+   "charging": "45W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Elite for Galaxy",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "Dynamic AMOLED 2X QHD+",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "12MP",
+   "os": "Android 15 (One UI 7)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide + 10MP 3x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "The 2025 sweet-spot Galaxy: 6.7-inch QHD+ screen, 4900mAh battery, 45W charging.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://image-us.samsung.com/us/smartphones/galaxy-s25-ultra/images/galaxy-s25-ultra-features-colors-titanium-silverblue-mo.jpg"
+  ],
+  "name": "Galaxy S25 Ultra",
+  "price_usd": 1300,
+  "slug": "galaxy-s25-ultra",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "45W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Elite for Galaxy",
+   "dimensions": null,
+   "display_size": "6.9-inch",
+   "display_type": "Dynamic AMOLED 2X QHD+",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "12MP",
+   "os": "Android 15 (One UI 7)",
+   "ram": "12GB",
+   "rear_cameras": "200MP main + 50MP 5x telephoto + 10MP 3x telephoto + 12MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2025 Ultra flagship: 200MP quad camera, titanium frame and embedded S Pen.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Galaxy S25 FE",
+  "price_usd": 650,
+  "slug": "galaxy-s25-fe",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4900mAh",
+   "charging": "25W wired, 15W wireless",
+   "chipset": "Exynos 2400e",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "Dynamic AMOLED 2X",
+   "fingerprint": "In-display optical",
+   "front_camera": "12MP",
+   "os": "Android 16 (One UI 8)",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide + 8MP 3x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Fan Edition flagship value: big 6.7-inch AMOLED, 4900mAh battery and Galaxy AI for less.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://img.global.news.samsung.com/jp/wp-content/uploads/2025/07/PR_Q7single_02_1440x720-1.jpg"
+  ],
+  "name": "Galaxy Z Fold 7",
+  "price_usd": 2000,
+  "slug": "galaxy-z-fold-7",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4400mAh",
+   "charging": "25W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Elite for Galaxy",
+   "dimensions": null,
+   "display_size": "8.0-inch inner + 6.5-inch cover",
+   "display_type": "Foldable Dynamic AMOLED 2X",
+   "fingerprint": "Side-mounted",
+   "front_camera": "10MP cover + 4MP under-display",
+   "os": "Android 16 (One UI 8)",
+   "ram": "12GB",
+   "rear_cameras": "200MP main + 12MP ultra-wide + 10MP 3x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP48",
+   "weight": null
+  },
+  "tagline": "Samsung's thinnest, lightest book foldable with a 200MP camera and 8-inch display.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://images.samsung.com/se/smartphones/galaxy-z-flip7/buy/03_Gallery/01_Static_KV/B7_Static_KV_PC.png?imbypass=true"
+  ],
+  "name": "Galaxy Z Flip 7",
+  "price_usd": 1100,
+  "slug": "galaxy-z-flip-7",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4300mAh",
+   "charging": "25W wired, 15W wireless",
+   "chipset": "Exynos 2500",
+   "dimensions": null,
+   "display_size": "6.9-inch inner + 4.1-inch cover",
+   "display_type": "Foldable Dynamic AMOLED 2X",
+   "fingerprint": "Side-mounted",
+   "front_camera": "10MP",
+   "os": "Android 16 (One UI 8)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP48",
+   "weight": null
+  },
+  "tagline": "The pocketable flip foldable: edge-to-edge 4.1-inch cover screen and all-day battery.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Galaxy Z Flip 7 FE",
+  "price_usd": 900,
+  "slug": "galaxy-z-flip-7-fe",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4000mAh",
+   "charging": "25W wired, 15W wireless",
+   "chipset": "Exynos 2400e",
+   "dimensions": null,
+   "display_size": "6.7-inch inner + 3.4-inch cover",
+   "display_type": "Foldable Dynamic AMOLED 2X",
+   "fingerprint": "Side-mounted",
+   "front_camera": "10MP",
+   "os": "Android 16 (One UI 8)",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP48",
+   "weight": null
+  },
+  "tagline": "The affordable Galaxy flip: foldable fun and Galaxy AI at a lower price.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://images.samsung.com/is/image/samsung/assets/us/smartphones/galaxy-z-fold6/07082025/galaxy-z-fold6-ft02-kv_MO.jpg?$720_N_JPG$"
+  ],
+  "name": "Galaxy Z Fold 6",
+  "price_usd": 1900,
+  "slug": "galaxy-z-fold-6",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4400mAh",
+   "charging": "25W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Gen 3 for Galaxy",
+   "dimensions": null,
+   "display_size": "7.6-inch inner + 6.3-inch cover",
+   "display_type": "Foldable Dynamic AMOLED 2X",
+   "fingerprint": "Side-mounted",
+   "front_camera": "10MP cover + 4MP under-display",
+   "os": "Android 14 (One UI 6.1.1)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide + 10MP 3x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP48",
+   "weight": null
+  },
+  "tagline": "2024 book foldable: multitasking powerhouse with Galaxy AI and S Pen support.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://images.samsung.com/ca/smartphones/galaxy-z-flip6/images/galaxy-z-flip6-share-image.jpg"
+  ],
+  "name": "Galaxy Z Flip 6",
+  "price_usd": 1100,
+  "slug": "galaxy-z-flip-6",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4000mAh",
+   "charging": "25W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Gen 3 for Galaxy",
+   "dimensions": null,
+   "display_size": "6.7-inch inner + 3.4-inch cover",
+   "display_type": "Foldable Dynamic AMOLED 2X",
+   "fingerprint": "Side-mounted",
+   "front_camera": "10MP",
+   "os": "Android 14 (One UI 6.1.1)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP48",
+   "weight": null
+  },
+  "tagline": "2024 flip foldable with FlexCam selfies and a 3.4-inch cover screen.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Samsung_Galaxy_A56_5G_2025.jpg/500px-Samsung_Galaxy_A56_5G_2025.jpg"
+  ],
+  "name": "Galaxy A56",
+  "price_usd": 500,
+  "slug": "galaxy-a56",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "45W wired",
+   "chipset": "Exynos 1580",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "Super AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "12MP",
+   "os": "Android 15 (One UI 7)",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide + 5MP macro",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP67",
+   "weight": null
+  },
+  "tagline": "Mid-range Galaxy with a 120Hz AMOLED, 45W charging and 6 years of updates.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Galaxy A36",
+  "price_usd": 400,
+  "slug": "galaxy-a36",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "45W wired",
+   "chipset": "Snapdragon 6 Gen 3",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "Super AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "12MP",
+   "os": "Android 15 (One UI 7)",
+   "ram": "6GB",
+   "rear_cameras": "50MP main + 8MP ultra-wide + 5MP macro",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP67",
+   "weight": null
+  },
+  "tagline": "Affordable Galaxy A series: big AMOLED display and 45W fast charging.",
+  "videos": []
+ },
+ {
+  "brand": "Google",
+  "buy_links": [
+   {
+    "retailer": "Google Store",
+    "url": "https://store.google.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://lh3.googleusercontent.com/gDGkJl0eRw7q6LAL0OFn6J9B7Zysv6ZjgNl_lEhnEE2Z1PYWN7ejyN7E6m4H-8gwdIiaFObCgOy77OA3Ng04aSdxrkDjbdehBpc"
+  ],
+  "name": "Pixel 10",
+  "price_usd": 799,
+  "slug": "pixel-10",
+  "sources": [
+   "https://hothardware.com/news/google-pixel-10-series-phones-arrive-with-tensor-g5-new-ai-chops-and-amped-cameras"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4970mAh",
+   "charging": "30W wired, 15W Qi2 magnetic wireless",
+   "chipset": "Google Tensor G5 (3nm)",
+   "dimensions": null,
+   "display_size": "6.3-inch",
+   "display_type": "Actua OLED",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "10.5MP",
+   "os": "Android 16",
+   "ram": "12GB",
+   "rear_cameras": "48MP main + 13MP ultra-wide + 10.8MP 5x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Google's 2025 flagship: Tensor G5, first triple camera on the base Pixel, and built-in Qi2 magnets.",
+  "videos": []
+ },
+ {
+  "brand": "Google",
+  "buy_links": [
+   {
+    "retailer": "Google Store",
+    "url": "https://store.google.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Pixel 10 Pro",
+  "price_usd": 999,
+  "slug": "pixel-10-pro",
+  "sources": [
+   "https://hothardware.com/news/google-pixel-10-series-phones-arrive-with-tensor-g5-new-ai-chops-and-amped-cameras"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4870mAh",
+   "charging": "30W wired, 15W Qi2 magnetic wireless",
+   "chipset": "Google Tensor G5 (3nm)",
+   "dimensions": null,
+   "display_size": "6.3-inch",
+   "display_type": "Super Actua LTPO OLED",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "42MP",
+   "os": "Android 16",
+   "ram": "16GB",
+   "rear_cameras": "50MP main + 48MP ultra-wide + 48MP 5x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Compact Pro: flagship triple 50MP cameras and 100x Pro Res Zoom in a 6.3-inch body.",
+  "videos": []
+ },
+ {
+  "brand": "Google",
+  "buy_links": [
+   {
+    "retailer": "Google Store",
+    "url": "https://store.google.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Pixel 10 Pro XL",
+  "price_usd": 1199,
+  "slug": "pixel-10-pro-xl",
+  "sources": [
+   "https://hothardware.com/news/google-pixel-10-series-phones-arrive-with-tensor-g5-new-ai-chops-and-amped-cameras"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5200mAh",
+   "charging": "45W wired, 25W Qi2 magnetic wireless",
+   "chipset": "Google Tensor G5 (3nm)",
+   "dimensions": null,
+   "display_size": "6.8-inch",
+   "display_type": "Super Actua LTPO OLED",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "42MP",
+   "os": "Android 16",
+   "ram": "16GB",
+   "rear_cameras": "50MP main + 48MP ultra-wide + 48MP 5x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "The biggest Pixel: 6.8-inch display, 5200mAh battery and 45W charging.",
+  "videos": []
+ },
+ {
+  "brand": "Google",
+  "buy_links": [
+   {
+    "retailer": "Google Store",
+    "url": "https://store.google.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Pixel 10 Pro Fold",
+  "price_usd": 1799,
+  "slug": "pixel-10-pro-fold",
+  "sources": [
+   "https://appleinsider.com/articles/25/08/20/google-pixel-10-pro-fold-arrive-try-to-spoil-the-iphone-17-party"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5015mAh",
+   "charging": null,
+   "chipset": "Google Tensor G5 (3nm)",
+   "dimensions": null,
+   "display_size": "8.0-inch inner + 6.4-inch cover",
+   "display_type": "Super Actua Flex foldable OLED",
+   "fingerprint": "Side-mounted",
+   "front_camera": "10MP (cover) + 10MP (inner)",
+   "os": "Android 16",
+   "ram": "16GB",
+   "rear_cameras": "48MP main + 10.5MP ultra-wide + 10.8MP 5x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Google's most durable foldable: 8-inch inner display and the first IP68 foldable Pixel.",
+  "videos": []
+ },
+ {
+  "brand": "Google",
+  "buy_links": [
+   {
+    "retailer": "Google Store",
+    "url": "https://store.google.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Google_Pixel_10a_(Fog,_back).svg/960px-Google_Pixel_10a_(Fog,_back).svg.png",
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Google_Pixel_10a_(Obsidian,_back).svg/1280px-Google_Pixel_10a_(Obsidian,_back).svg.png?utm_source=ja.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
+  ],
+  "name": "Pixel 10a",
+  "price_usd": 499,
+  "slug": "pixel-10a",
+  "sources": [
+   "https://store.google.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5100mAh",
+   "charging": "30W wired",
+   "chipset": "Google Tensor G4",
+   "dimensions": null,
+   "display_size": "6.3-inch",
+   "display_type": "Actua OLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "13MP",
+   "os": "Android 16",
+   "ram": "8GB",
+   "rear_cameras": "48MP main + 13MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "The affordable Pixel: big 5100mAh battery and Google AI smarts for $499.",
+  "videos": []
+ },
+ {
+  "brand": "Google",
+  "buy_links": [
+   {
+    "retailer": "Google Store",
+    "url": "https://store.google.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Pixel 9a",
+  "price_usd": 499,
+  "slug": "pixel-9a",
+  "sources": [
+   "https://store.google.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5100mAh",
+   "charging": "23W wired, Qi wireless",
+   "chipset": "Google Tensor G4",
+   "dimensions": null,
+   "display_size": "6.3-inch",
+   "display_type": "pOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "13MP",
+   "os": "Android 15",
+   "ram": "8GB",
+   "rear_cameras": "48MP main + 13MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2025 budget Pixel with the largest battery ever in a Pixel A-series phone.",
+  "videos": []
+ },
+ {
+  "brand": "Google",
+  "buy_links": [
+   {
+    "retailer": "Google Store",
+    "url": "https://store.google.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Pixel 9",
+  "price_usd": 799,
+  "slug": "pixel-9",
+  "sources": [
+   "https://store.google.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4700mAh",
+   "charging": "27W wired, 15W Qi wireless",
+   "chipset": "Google Tensor G4",
+   "dimensions": null,
+   "display_size": "6.3-inch",
+   "display_type": "Actua OLED",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "10.5MP",
+   "os": "Android 14",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 48MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 flagship Pixel: Tensor G4, Gemini AI and 7 years of updates.",
+  "videos": []
+ },
+ {
+  "brand": "Google",
+  "buy_links": [
+   {
+    "retailer": "Google Store",
+    "url": "https://store.google.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Pixel 9 Pro",
+  "price_usd": 999,
+  "slug": "pixel-9-pro",
+  "sources": [
+   "https://store.google.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4700mAh",
+   "charging": "30W wired, 21W Qi wireless",
+   "chipset": "Google Tensor G4",
+   "dimensions": null,
+   "display_size": "6.3-inch",
+   "display_type": "Super Actua LTPO OLED",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "42MP",
+   "os": "Android 14",
+   "ram": "16GB",
+   "rear_cameras": "50MP main + 48MP ultra-wide + 48MP 5x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 compact Pro: triple 50MP cameras in a 6.3-inch body.",
+  "videos": []
+ },
+ {
+  "brand": "Google",
+  "buy_links": [
+   {
+    "retailer": "Google Store",
+    "url": "https://store.google.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://lh3.googleusercontent.com/kPim_frhbHPlIrTPe5RuhYiubXF6XHsznDvdGVGqf3DvEZnNN2Yq-ulM9aQNavNUC9IoBFwooExMyMlGcpPBljEmC9BvZeSkzA"
+  ],
+  "name": "Pixel 8a",
+  "price_usd": 499,
+  "slug": "pixel-8a",
+  "sources": [
+   "https://store.google.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4492mAh",
+   "charging": "18W wired, Qi wireless",
+   "chipset": "Google Tensor G3",
+   "dimensions": null,
+   "display_size": "6.1-inch",
+   "display_type": "Actua OLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "13MP",
+   "os": "Android 14",
+   "ram": "8GB",
+   "rear_cameras": "64MP main + 13MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP67",
+   "weight": null
+  },
+  "tagline": "2024 budget Pixel: flagship Tensor G3 chip and great cameras for $499.",
+  "videos": []
+ },
+ {
+  "brand": "OnePlus",
+  "buy_links": [
+   {
+    "retailer": "OnePlus",
+    "url": "https://www.oneplus.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "OnePlus 15",
+  "price_usd": 900,
+  "slug": "oneplus-15",
+  "sources": [
+   "https://www.androidheadlines.com/oneplus-15-official-specs-features-price-buy.html",
+   "https://www.gadgets360.com/mobiles/news/oneplus-15-price-in-india-launch-specifications-features-9628786"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "7300mAh",
+   "charging": "120W wired (80W in US), 50W wireless",
+   "chipset": "Snapdragon 8 Elite Gen 5",
+   "dimensions": "161.42 x 76.67 x 8.1mm",
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "32MP",
+   "os": "Android 16 (OxygenOS 16)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 3.5x periscope telephoto",
+   "refresh_rate": "165Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": "211g"
+  },
+  "tagline": "2025 flagship killer: Snapdragon 8 Elite Gen 5, 165Hz display and a massive 7300mAh battery.",
+  "videos": []
+ },
+ {
+  "brand": "OnePlus",
+  "buy_links": [
+   {
+    "retailer": "OnePlus",
+    "url": "https://www.oneplus.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/1/14/OnePlus_13_back.jpg"
+  ],
+  "name": "OnePlus 13",
+  "price_usd": 900,
+  "slug": "oneplus-13",
+  "sources": [
+   "https://www.oneplus.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6000mAh",
+   "charging": "100W wired, 50W wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.82-inch",
+   "display_type": "LTPO AMOLED QHD+",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "32MP",
+   "os": "Android 15 (OxygenOS 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 3x telephoto (Hasselblad)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "2025 flagship with Hasselblad cameras, 6000mAh battery and 100W charging.",
+  "videos": []
+ },
+ {
+  "brand": "OnePlus",
+  "buy_links": [
+   {
+    "retailer": "OnePlus",
+    "url": "https://www.oneplus.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "OnePlus 13R",
+  "price_usd": 600,
+  "slug": "oneplus-13r",
+  "sources": [
+   "https://www.oneplus.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6000mAh",
+   "charging": "80W wired",
+   "chipset": "Snapdragon 8 Gen 3",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "16MP",
+   "os": "Android 15 (OxygenOS 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 2x telephoto + 8MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB"
+   ],
+   "water_resistance": "IP65",
+   "weight": null
+  },
+  "tagline": "Flagship performance for less: Snapdragon 8 Gen 3 and 6000mAh battery.",
+  "videos": []
+ },
+ {
+  "brand": "OnePlus",
+  "buy_links": [
+   {
+    "retailer": "OnePlus",
+    "url": "https://www.oneplus.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://www.oneplus.com/content/dam/oasis/page/waffle-en/images-design-right1-1.jpg.avif"
+  ],
+  "name": "OnePlus 12",
+  "price_usd": 800,
+  "slug": "oneplus-12",
+  "sources": [
+   "https://www.oneplus.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5400mAh",
+   "charging": "100W wired, 50W wireless",
+   "chipset": "Snapdragon 8 Gen 3",
+   "dimensions": null,
+   "display_size": "6.82-inch",
+   "display_type": "LTPO AMOLED QHD+",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "Android 14 (OxygenOS 14)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 48MP ultra-wide + 64MP 3x telephoto (Hasselblad)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP65",
+   "weight": null
+  },
+  "tagline": "2024 flagship: Hasselblad cameras and blazing 100W charging.",
+  "videos": []
+ },
+ {
+  "brand": "OnePlus",
+  "buy_links": [
+   {
+    "retailer": "OnePlus",
+    "url": "https://www.oneplus.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://oasis.opstatics.com/content/dam/oasis/page/2023/global/press/20231019/img-1.jpg",
+   "https://www.oneplus.com/content/dam/oasis/page/xueying/red/assets/images-top-phone-1.png.webp"
+  ],
+  "name": "OnePlus Open",
+  "price_usd": 1700,
+  "slug": "oneplus-open",
+  "sources": [
+   "https://www.oneplus.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4805mAh",
+   "charging": "67W wired",
+   "chipset": "Snapdragon 8 Gen 2",
+   "dimensions": null,
+   "display_size": "7.82-inch inner + 6.31-inch cover",
+   "display_type": "Foldable LTPO AMOLED",
+   "fingerprint": "Side-mounted",
+   "front_camera": "20MP inner + 32MP cover",
+   "os": "Android 13 (OxygenOS 13.2)",
+   "ram": "16GB",
+   "rear_cameras": "48MP main + 64MP 3x telephoto + 48MP ultra-wide (Hasselblad)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "512GB"
+   ],
+   "water_resistance": "IPX4",
+   "weight": null
+  },
+  "tagline": "OnePlus's book-style foldable with Hasselblad cameras and 67W charging.",
+  "videos": []
+ },
+ {
+  "brand": "Nothing",
+  "buy_links": [
+   {
+    "retailer": "Nothing",
+    "url": "https://nothing.tech"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0582/6242/1665/files/Arbok-Primary-White.png?v=1750844237"
+  ],
+  "name": "Nothing Phone (3)",
+  "price_usd": 799,
+  "slug": "nothing-phone-3",
+  "sources": [
+   "https://nothing.tech"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5150mAh",
+   "charging": "65W wired, 15W wireless",
+   "chipset": "Snapdragon 8s Gen 4",
+   "dimensions": null,
+   "display_size": "6.67-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "Android 15 (Nothing OS 3.5)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 3x periscope telephoto + 50MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Nothing's first true flagship: Glyph Matrix, triple 50MP cameras and transparent design.",
+  "videos": []
+ },
+ {
+  "brand": "Nothing",
+  "buy_links": [
+   {
+    "retailer": "Nothing",
+    "url": "https://nothing.tech"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://cdn.sanity.io/images/gtd4w1cq/production/2bfbfa5036e536e04228bc323d44d78daf3560d5-4096x2304.jpg?auto=format"
+  ],
+  "name": "Nothing Phone (3a)",
+  "price_usd": 379,
+  "slug": "nothing-phone-3a",
+  "sources": [
+   "https://nothing.tech"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "45W wired",
+   "chipset": "Snapdragon 7s Gen 3",
+   "dimensions": null,
+   "display_size": "6.77-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "Android 15 (Nothing OS 3.1)",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 50MP 2x telephoto + 8MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP64",
+   "weight": null
+  },
+  "tagline": "Mid-range Nothing with Glyph lights, telephoto camera and clean Nothing OS.",
+  "videos": []
+ },
+ {
+  "brand": "Nothing",
+  "buy_links": [
+   {
+    "retailer": "Nothing",
+    "url": "https://nothing.tech"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0376/5420/0459/files/0000s_0010_Phone-3a-Pro-black.png?v=1753435886",
+   "https://cdn.sanity.io/images/gtd4w1cq/production/1abf8641954327671ef961ccb1b6d934540b19cd-4096x2304.jpg?auto=format"
+  ],
+  "name": "Nothing Phone (3a) Pro",
+  "price_usd": 459,
+  "slug": "nothing-phone-3a-pro",
+  "sources": [
+   "https://nothing.tech"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "45W wired",
+   "chipset": "Snapdragon 7s Gen 3",
+   "dimensions": null,
+   "display_size": "6.77-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "Android 15 (Nothing OS 3.1)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 3x periscope telephoto + 8MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB"
+   ],
+   "water_resistance": "IP64",
+   "weight": null
+  },
+  "tagline": "The 3a with a periscope zoom: flagship-style 3x telephoto at a mid-range price.",
+  "videos": []
+ },
+ {
+  "brand": "Nothing",
+  "buy_links": [
+   {
+    "retailer": "Nothing",
+    "url": "https://nothing.tech"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/CMF_Phone_2_Pro_%28white%29_2025-05-08.jpg/960px-CMF_Phone_2_Pro_%28white%29_2025-05-08.jpg?utm_source=www.wikidata.org&utm_campaign=index&utm_content=thumbnail"
+  ],
+  "name": "CMF Phone 2 Pro",
+  "price_usd": 279,
+  "slug": "cmf-phone-2-pro",
+  "sources": [
+   "https://nothing.tech"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "33W wired",
+   "chipset": "MediaTek Dimensity 7300 Pro",
+   "dimensions": null,
+   "display_size": "6.77-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "16MP",
+   "os": "Android 15 (Nothing OS 3.2)",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 50MP 2x telephoto + 8MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP54",
+   "weight": null
+  },
+  "tagline": "Nothing's budget sub-brand: modular design, telephoto camera and 120Hz AMOLED.",
+  "videos": []
+ },
+ {
+  "brand": "Xiaomi",
+  "buy_links": [
+   {
+    "retailer": "Xiaomi",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Xiaomi 16",
+  "price_usd": null,
+  "slug": "xiaomi-16",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Snapdragon 8 Elite Gen 5",
+   "dimensions": null,
+   "display_size": "6.3-inch",
+   "display_type": "OLED",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": null,
+   "os": "HyperOS 3 (Android 16)",
+   "ram": "12GB",
+   "rear_cameras": "50MP Leica triple camera (main + ultra-wide + telephoto)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Xiaomi's 2026 compact flagship: Snapdragon 8 Elite Gen 5 and Leica optics.",
+  "videos": []
+ },
+ {
+  "brand": "Xiaomi",
+  "buy_links": [
+   {
+    "retailer": "Xiaomi",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Xiaomi 16 Pro",
+  "price_usd": null,
+  "slug": "xiaomi-16-pro",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Snapdragon 8 Elite Gen 5",
+   "dimensions": null,
+   "display_size": "6.85-inch",
+   "display_type": "OLED 2K",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": null,
+   "os": "HyperOS 3 (Android 16)",
+   "ram": "12GB",
+   "rear_cameras": "50MP Leica triple camera (main + ultra-wide + periscope telephoto)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "The large-format Xiaomi 16: 6.85-inch 2K display and periscope Leica zoom.",
+  "videos": []
+ },
+ {
+  "brand": "Xiaomi",
+  "buy_links": [
+   {
+    "retailer": "Xiaomi",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://i02.appmifile.com/262_item_ae/05/06/2025/1a885652c3ad953e9979f9deb1f49af5.png",
+   "https://i02.appmifile.com/807_operator_sg/18/02/2025/a290256932c83688e1cb4e8fe6321f59.png"
+  ],
+  "name": "Xiaomi 15",
+  "price_usd": null,
+  "slug": "xiaomi-15",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5400mAh",
+   "charging": "90W wired, 50W wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.36-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "32MP",
+   "os": "HyperOS 2 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 2.6x telephoto (Leica)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2025 compact flagship: Leica triple camera and 90W HyperCharge.",
+  "videos": []
+ },
+ {
+  "brand": "Xiaomi",
+  "buy_links": [
+   {
+    "retailer": "Xiaomi",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://i02.appmifile.com/81_item_my/25/02/2025/6338c52462ad515fa35c16c557197ecf.png"
+  ],
+  "name": "Xiaomi 15 Ultra",
+  "price_usd": null,
+  "slug": "xiaomi-15-ultra",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5410mAh",
+   "charging": "90W wired, 80W wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.73-inch",
+   "display_type": "LTPO AMOLED 2K",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "32MP",
+   "os": "HyperOS 2 (Android 15)",
+   "ram": "16GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 3x telephoto + 200MP 4.3x periscope (Leica)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Xiaomi's camera king: 200MP periscope Leica zoom and 1-inch-class main sensor.",
+  "videos": []
+ },
+ {
+  "brand": "Xiaomi",
+  "buy_links": [
+   {
+    "retailer": "Xiaomi",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Xiaomi 15T Pro",
+  "price_usd": null,
+  "slug": "xiaomi-15t-pro",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5500mAh",
+   "charging": "90W wired",
+   "chipset": "MediaTek Dimensity 9400+",
+   "dimensions": null,
+   "display_size": "6.83-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "HyperOS 2 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 2x telephoto + 12MP ultra-wide (Leica)",
+   "refresh_rate": "144Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Flagship-grade T series: 144Hz display, Leica cameras and 90W charging.",
+  "videos": []
+ },
+ {
+  "brand": "Xiaomi",
+  "buy_links": [
+   {
+    "retailer": "Xiaomi",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://i02.appmifile.com/145_operatorx_operatorx_opx/10/01/2025/b381ab467340baace69840496f8cdfd3.png"
+  ],
+  "name": "Redmi Note 14 Pro",
+  "price_usd": 299,
+  "slug": "redmi-note-14-pro",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5110mAh",
+   "charging": "45W wired",
+   "chipset": "MediaTek Dimensity 7300 Ultra",
+   "dimensions": null,
+   "display_size": "6.67-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "HyperOS (Android 14)",
+   "ram": "8GB",
+   "rear_cameras": "200MP main + 8MP ultra-wide + 2MP macro",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Mid-range bestseller: 200MP camera, curved AMOLED and flagship-grade durability.",
+  "videos": []
+ },
+ {
+  "brand": "Xiaomi",
+  "buy_links": [
+   {
+    "retailer": "Xiaomi",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://i02.appmifile.com/435_operatorx_operatorx_opx/03/03/2025/0c97b47c46fd8daf8eb3995840a2a0af.png"
+  ],
+  "name": "Redmi Note 14",
+  "price_usd": 199,
+  "slug": "redmi-note-14",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": false,
+   "battery": "5500mAh",
+   "charging": "33W wired",
+   "chipset": "MediaTek Helio G99 Ultra",
+   "dimensions": null,
+   "display_size": "6.67-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "HyperOS (Android 14)",
+   "ram": "6GB",
+   "rear_cameras": "108MP main + 2MP depth + 2MP macro",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP54",
+   "weight": null
+  },
+  "tagline": "Budget Redmi classic: 108MP camera and big battery under $200.",
+  "videos": []
+ },
+ {
+  "brand": "POCO",
+  "buy_links": [
+   {
+    "retailer": "POCO",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://i02.appmifile.com/307_item_jp/24/03/2025/bbc3e8de686b050c26bb4c0003c33ebc.png"
+  ],
+  "name": "POCO F7 Pro",
+  "price_usd": 599,
+  "slug": "poco-f7-pro",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6000mAh",
+   "charging": "90W wired",
+   "chipset": "Snapdragon 8 Gen 3",
+   "dimensions": null,
+   "display_size": "6.67-inch",
+   "display_type": "AMOLED 2K",
+   "fingerprint": "In-display optical",
+   "front_camera": "20MP",
+   "os": "HyperOS 2 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 8MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Flagship chip, flagship display: Snapdragon 8 Gen 3 with 2K AMOLED.",
+  "videos": []
+ },
+ {
+  "brand": "POCO",
+  "buy_links": [
+   {
+    "retailer": "POCO",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://i02.appmifile.com/374_operator_sg/10/06/2025/b9f8f21862a0c7fc641ac7169d377d86.png"
+  ],
+  "name": "POCO F7",
+  "price_usd": 399,
+  "slug": "poco-f7",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "7550mAh",
+   "charging": "90W wired",
+   "chipset": "Snapdragon 8s Gen 4",
+   "dimensions": null,
+   "display_size": "6.83-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "20MP",
+   "os": "HyperOS 2 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 8MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Battery monster: 7550mAh silicon-carbon battery with 90W HyperCharge.",
+  "videos": []
+ },
+ {
+  "brand": "POCO",
+  "buy_links": [
+   {
+    "retailer": "POCO",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "POCO X7 Pro",
+  "price_usd": 299,
+  "slug": "poco-x7-pro",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6000mAh",
+   "charging": "90W wired",
+   "chipset": "MediaTek Dimensity 8400 Ultra",
+   "dimensions": null,
+   "display_size": "6.67-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "20MP",
+   "os": "HyperOS 2 (Android 15)",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 8MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Performance mid-ranger: Dimensity 8400 Ultra gaming power under $300.",
+  "videos": []
+ },
+ {
+  "brand": "iQOO",
+  "buy_links": [
+   {
+    "retailer": "iQOO",
+    "url": "https://www.iqoo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "iQOO 13",
+  "price_usd": 599,
+  "slug": "iqoo-13",
+  "sources": [
+   "https://www.iqoo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6150mAh",
+   "charging": "120W wired",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.82-inch",
+   "display_type": "LTPO AMOLED 2K",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "32MP",
+   "os": "Funtouch OS 15 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 2x telephoto",
+   "refresh_rate": "144Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "Esports flagship: Snapdragon 8 Elite, 144Hz 2K display and 120W FlashCharge.",
+  "videos": []
+ },
+ {
+  "brand": "Motorola",
+  "buy_links": [
+   {
+    "retailer": "Motorola",
+    "url": "https://www.motorola.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Motorola Razr Ultra 2025",
+  "price_usd": 1300,
+  "slug": "motorola-razr-ultra-2025",
+  "sources": [
+   "https://www.motorola.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4700mAh",
+   "charging": "68W wired, 30W wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "7.0-inch inner + 4.0-inch cover",
+   "display_type": "pOLED foldable",
+   "fingerprint": "Side-mounted",
+   "front_camera": "50MP",
+   "os": "Android 15",
+   "ram": "16GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide",
+   "refresh_rate": "165Hz",
+   "storage": [
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP48",
+   "weight": null
+  },
+  "tagline": "The most powerful flip phone: Snapdragon 8 Elite, 165Hz display and moto ai.",
+  "videos": []
+ },
+ {
+  "brand": "Motorola",
+  "buy_links": [
+   {
+    "retailer": "Motorola",
+    "url": "https://www.motorola.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Motorola Razr+ 2025",
+  "price_usd": 1000,
+  "slug": "motorola-razr-plus-2025",
+  "sources": [
+   "https://www.motorola.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4000mAh",
+   "charging": "45W wired, 15W wireless",
+   "chipset": "Snapdragon 8s Gen 3",
+   "dimensions": null,
+   "display_size": "6.9-inch inner + 4.0-inch cover",
+   "display_type": "pOLED foldable",
+   "fingerprint": "Side-mounted",
+   "front_camera": "32MP",
+   "os": "Android 15",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 2x telephoto",
+   "refresh_rate": "165Hz",
+   "storage": [
+    "256GB"
+   ],
+   "water_resistance": "IP48",
+   "weight": null
+  },
+  "tagline": "Flip flagship with a full 4.0-inch cover screen and dual 50MP cameras.",
+  "videos": []
+ },
+ {
+  "brand": "Motorola",
+  "buy_links": [
+   {
+    "retailer": "Motorola",
+    "url": "https://www.motorola.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Motorola Razr 2025",
+  "price_usd": 700,
+  "slug": "motorola-razr-2025",
+  "sources": [
+   "https://www.motorola.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4500mAh",
+   "charging": "30W wired, 15W wireless",
+   "chipset": "MediaTek Dimensity 7400X",
+   "dimensions": null,
+   "display_size": "6.9-inch inner + 3.6-inch cover",
+   "display_type": "pOLED foldable",
+   "fingerprint": "Side-mounted",
+   "front_camera": "32MP",
+   "os": "Android 15",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 13MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB"
+   ],
+   "water_resistance": "IP48",
+   "weight": null
+  },
+  "tagline": "The accessible flip: foldable design and moto ai at $699.",
+  "videos": []
+ },
+ {
+  "brand": "Motorola",
+  "buy_links": [
+   {
+    "retailer": "Motorola",
+    "url": "https://www.motorola.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Motorola Edge 2025",
+  "price_usd": 550,
+  "slug": "motorola-edge-2025",
+  "sources": [
+   "https://www.motorola.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5200mAh",
+   "charging": "68W wired, 15W wireless",
+   "chipset": "MediaTek Dimensity 7400",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "pOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "Android 15",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 10MP 3x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Premium mid-ranger: triple 50MP cameras, 68W TurboPower and military-grade durability.",
+  "videos": []
+ },
+ {
+  "brand": "Motorola",
+  "buy_links": [
+   {
+    "retailer": "Motorola",
+    "url": "https://www.motorola.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://p3-ofp.static.pub//fes/cms/2025/05/13/ys3bhny970gv4aoa0zf0oany6de1zr696460.png",
+   "https://p1-ofp.static.pub//fes/cms/2025/04/14/zdq3w3f4hwnpmyq4jtnd0v8nuh5vcb255929.png"
+  ],
+  "name": "Moto G Stylus 2025",
+  "price_usd": 400,
+  "slug": "moto-g-stylus-2025",
+  "sources": [
+   "https://www.motorola.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "68W wired, 15W wireless",
+   "chipset": "Snapdragon 6 Gen 3",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "pOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "Android 15",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 13MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Built-in stylus, 6.7-inch pOLED and 68W charging for $399.",
+  "videos": []
+ },
+ {
+  "brand": "OPPO",
+  "buy_links": [
+   {
+    "retailer": "OPPO",
+    "url": "https://www.oppo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/find-x8-series-en/find-x8/listpage/436-600-white-in-v2.png",
+   "https://www.oppo.com/content/dam/oppo_com/jp/mkt/newsroom/press/2025/find-x8-release/oppofindx8_header.webp"
+  ],
+  "name": "OPPO Find X8",
+  "price_usd": null,
+  "slug": "oppo-find-x8",
+  "sources": [
+   "https://www.oppo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5630mAh",
+   "charging": "80W wired, 50W wireless",
+   "chipset": "MediaTek Dimensity 9400",
+   "dimensions": null,
+   "display_size": "6.59-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "ColorOS 15 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 3x periscope telephoto (Hasselblad)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "Hasselblad imaging flagship: triple 50MP cameras and Dimensity 9400.",
+  "videos": []
+ },
+ {
+  "brand": "OPPO",
+  "buy_links": [
+   {
+    "retailer": "OPPO",
+    "url": "https://www.oppo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://www.oppo.com/content/dam/oppo/product-asset-library/find/find-x8-series/en/oppo-find-x8-pro/white-apac/assets/images-color-konka-l-1-pad.jpg"
+  ],
+  "name": "OPPO Find X8 Pro",
+  "price_usd": null,
+  "slug": "oppo-find-x8-pro",
+  "sources": [
+   "https://www.oppo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5910mAh",
+   "charging": "80W wired, 50W wireless",
+   "chipset": "MediaTek Dimensity 9400",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "ColorOS 15 (Android 15)",
+   "ram": "16GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 3x telephoto + 50MP 6x periscope (Hasselblad)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "Dual-periscope zoom flagship with Hasselblad color science.",
+  "videos": []
+ },
+ {
+  "brand": "OPPO",
+  "buy_links": [
+   {
+    "retailer": "OPPO",
+    "url": "https://www.oppo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://www.oppo.com/content/dam/oppo/sg/mkt/newsroom/press/oppo-launches-find-n5/news00.webp",
+   "https://www.oppo.com/content/dam/oppo/product-asset-library/find/find-n5-series/main/assets/images-kv-bg-pad-1.jpg.avif"
+  ],
+  "name": "OPPO Find N5",
+  "price_usd": null,
+  "slug": "oppo-find-n5",
+  "sources": [
+   "https://www.oppo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5600mAh",
+   "charging": "80W wired, 50W wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "8.12-inch inner + 6.62-inch cover",
+   "display_type": "Foldable LTPO AMOLED",
+   "fingerprint": "Side-mounted",
+   "front_camera": "8MP cover + 8MP inner",
+   "os": "ColorOS 15 (Android 15)",
+   "ram": "16GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 3x telephoto (Hasselblad)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "512GB"
+   ],
+   "water_resistance": "IPX8",
+   "weight": null
+  },
+  "tagline": "The world's thinnest book-style foldable with Hasselblad cameras.",
+  "videos": []
+ },
+ {
+  "brand": "OPPO",
+  "buy_links": [
+   {
+    "retailer": "OPPO",
+    "url": "https://www.oppo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://www.oppo.com/content/dam/oppo/product-asset-library/reno/reno13-series/en/reno13/white-blue/v1/assets/images-design-pad-center-s2b-1.png.avif",
+   "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/reno13-series/list-page/reno13-5g/white-in.png"
+  ],
+  "name": "OPPO Reno 13",
+  "price_usd": null,
+  "slug": "oppo-reno-13",
+  "sources": [
+   "https://www.oppo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5600mAh",
+   "charging": "80W wired",
+   "chipset": "MediaTek Dimensity 8350",
+   "dimensions": null,
+   "display_size": "6.59-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "ColorOS 15 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 8MP ultra-wide + 2MP monochrome",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "Slim AI portrait expert with a 50MP selfie camera and 80W charging.",
+  "videos": []
+ },
+ {
+  "brand": "vivo",
+  "buy_links": [
+   {
+    "retailer": "vivo",
+    "url": "https://www.vivo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://asia-exshopstatic-vivofs.vivo.com/KuCZNhz3cVxH4yrP/tw/1732113743197/159aedde9964d649d1a6f6e816e74d7e.png_w390-h390.webp"
+  ],
+  "name": "vivo X200",
+  "price_usd": null,
+  "slug": "vivo-x200",
+  "sources": [
+   "https://www.vivo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5800mAh",
+   "charging": "90W wired",
+   "chipset": "MediaTek Dimensity 9400",
+   "dimensions": null,
+   "display_size": "6.67-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "Funtouch OS 15 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 3x periscope telephoto (ZEISS)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "ZEISS imaging flagship: triple 50MP cameras with pro-grade portrait modes.",
+  "videos": []
+ },
+ {
+  "brand": "vivo",
+  "buy_links": [
+   {
+    "retailer": "vivo",
+    "url": "https://www.vivo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://asia-exshopstatic-vivofs.vivo.com/KuCZNhz3cVxH4yrP/tw/1732101474421/5802255a7410ec4938e35726b42e0849.png_w390-h390.webp",
+   "https://asia-exshopstatic-vivofs.vivo.com/KuCZNhz3cVxH4yrP/tw/1737036107452/f4c096793eea7add70bfb327a26b47c6.png"
+  ],
+  "name": "vivo X200 Pro",
+  "price_usd": null,
+  "slug": "vivo-x200-pro",
+  "sources": [
+   "https://www.vivo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6000mAh",
+   "charging": "90W wired, 30W wireless",
+   "chipset": "MediaTek Dimensity 9400",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "32MP",
+   "os": "Funtouch OS 15 (Android 15)",
+   "ram": "16GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 200MP 3.7x periscope telephoto (ZEISS)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "The zoom king: 200MP ZEISS APO telephoto and 6000mAh battery.",
+  "videos": []
+ },
+ {
+  "brand": "vivo",
+  "buy_links": [
+   {
+    "retailer": "vivo",
+    "url": "https://www.vivo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/activity/1749989525695/zip/img/wap/vivo-x200-fe-in-blue-breeze-launch.png",
+   "https://asia-exshopstatic-vivofs.vivo.com/KuCZNhz3cVxH4yrP/ph/1751512358698/ce19b97593eee8e0036ccba1e2844bc4.jpg"
+  ],
+  "name": "vivo X200 FE",
+  "price_usd": null,
+  "slug": "vivo-x200-fe",
+  "sources": [
+   "https://www.vivo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6500mAh",
+   "charging": "90W wired",
+   "chipset": "MediaTek Dimensity 9300+",
+   "dimensions": null,
+   "display_size": "6.31-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "Funtouch OS 15 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 3x telephoto + 8MP ultra-wide (ZEISS)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "Compact ZEISS flagship with a huge 6500mAh battery in a 6.31-inch body.",
+  "videos": []
+ },
+ {
+  "brand": "vivo",
+  "buy_links": [
+   {
+    "retailer": "vivo",
+    "url": "https://www.vivo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://eu-exstatic-vivofs.vivo.com/8Xa6evfY85lu15Pb/1741762584567/45436679f9cf89252767689aaab25f68.png",
+   "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/Picture_library/1740148926798/zip/img/pc1.jpg"
+  ],
+  "name": "vivo V50",
+  "price_usd": null,
+  "slug": "vivo-v50",
+  "sources": [
+   "https://www.vivo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6000mAh",
+   "charging": "90W wired",
+   "chipset": "Snapdragon 7 Gen 3",
+   "dimensions": null,
+   "display_size": "6.77-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "Funtouch OS 15 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide (ZEISS)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "Portrait flagship V series: ZEISS optics and 6000mAh battery.",
+  "videos": []
+ },
+ {
+  "brand": "HONOR",
+  "buy_links": [
+   {
+    "retailer": "HONOR",
+    "url": "https://www.honor.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://www.honor.com/content/dam/honor/za/products/smartphone/honor-magic7-pro/share.png"
+  ],
+  "name": "HONOR Magic 7 Pro",
+  "price_usd": null,
+  "slug": "honor-magic-7-pro",
+  "sources": [
+   "https://www.honor.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5850mAh",
+   "charging": "100W wired, 80W wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.8-inch",
+   "display_type": "LTPO OLED",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "50MP",
+   "os": "MagicOS 9 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 200MP 3x periscope telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "AI flagship: 200MP periscope zoom, 100W charging and 3D ultrasonic fingerprint.",
+  "videos": []
+ },
+ {
+  "brand": "HONOR",
+  "buy_links": [
+   {
+    "retailer": "HONOR",
+    "url": "https://www.honor.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://www.honor.com/content/dam/honor/common/product-list/product-series/honor-magic7/list/honor-magic7-list-gary.png"
+  ],
+  "name": "HONOR Magic 7",
+  "price_usd": null,
+  "slug": "honor-magic-7",
+  "sources": [
+   "https://www.honor.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5650mAh",
+   "charging": "100W wired, 80W wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO OLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "MagicOS 9 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 3x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "Snapdragon 8 Elite flagship with triple 50MP cameras and 100W charging.",
+  "videos": []
+ },
+ {
+  "brand": "HONOR",
+  "buy_links": [
+   {
+    "retailer": "HONOR",
+    "url": "https://www.honor.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://www-file.honor.com/content/dam/honor/de/shop/contentpage/magicv5/image/db-v5.png",
+   "https://www-file.honor.com/content/dam/honor/de/shop/contentpage/magicv5/kv/v5-kv-web.jpg"
+  ],
+  "name": "HONOR Magic V5",
+  "price_usd": null,
+  "slug": "honor-magic-v5",
+  "sources": [
+   "https://www.honor.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5820mAh",
+   "charging": "66W wired, 50W wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "7.95-inch inner + 6.43-inch cover",
+   "display_type": "Foldable LTPO OLED",
+   "fingerprint": "Side-mounted",
+   "front_camera": "20MP inner + 20MP cover",
+   "os": "MagicOS 9 (Android 15)",
+   "ram": "16GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 64MP 3x periscope telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "512GB"
+   ],
+   "water_resistance": "IP58/IP59",
+   "weight": null
+  },
+  "tagline": "Ultra-thin foldable flagship with a 5820mAh battery and periscope zoom.",
+  "videos": []
+ },
+ {
+  "brand": "HONOR",
+  "buy_links": [
+   {
+    "retailer": "HONOR",
+    "url": "https://www.honor.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://www.honor.com/content/dam/honor/de/shop/id/400Pro-gray.png",
+   "https://www-file.honor.com/content/dam/honor/ae-en/shop/id/honor-400-pro-gray.png"
+  ],
+  "name": "HONOR 400 Pro",
+  "price_usd": null,
+  "slug": "honor-400-pro",
+  "sources": [
+   "https://www.honor.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6000mAh",
+   "charging": "100W wired, 50W wireless",
+   "chipset": "Snapdragon 8 Gen 3",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "MagicOS 9 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "200MP main + 50MP ultra-wide + 12MP telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "AI camera phone: 200MP main sensor with advanced portrait engine.",
+  "videos": []
+ },
+ {
+  "brand": "realme",
+  "buy_links": [
+   {
+    "retailer": "realme",
+    "url": "https://www.realme.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "realme GT 7 Pro",
+  "price_usd": 749,
+  "slug": "realme-gt-7-pro",
+  "sources": [
+   "https://www.realme.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6500mAh",
+   "charging": "120W wired",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "16MP",
+   "os": "realme UI 6 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 3x telephoto + 8MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "Flagship killer: Snapdragon 8 Elite, 6500mAh battery and 120W charging.",
+  "videos": []
+ },
+ {
+  "brand": "realme",
+  "buy_links": [
+   {
+    "retailer": "realme",
+    "url": "https://www.realme.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "realme GT 7",
+  "price_usd": null,
+  "slug": "realme-gt-7",
+  "sources": [
+   "https://www.realme.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "7000mAh",
+   "charging": "120W wired",
+   "chipset": "MediaTek Dimensity 9400e",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "realme UI 6 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 2x telephoto + 8MP ultra-wide",
+   "refresh_rate": "144Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP69",
+   "weight": null
+  },
+  "tagline": "7000mAh battery beast with 120W charging and graphene cooling.",
+  "videos": []
+ },
+ {
+  "brand": "realme",
+  "buy_links": [
+   {
+    "retailer": "realme",
+    "url": "https://www.realme.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://static2.realme.net/images/realme-14-pro-plus-5g/173492553069826a48a3d81f94da4a9c512e88a17febc.webp"
+  ],
+  "name": "realme 14 Pro+",
+  "price_usd": null,
+  "slug": "realme-14-pro-plus",
+  "sources": [
+   "https://www.realme.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6000mAh",
+   "charging": "80W wired",
+   "chipset": "Snapdragon 7s Gen 3",
+   "dimensions": null,
+   "display_size": "6.83-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "realme UI 6 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 3x periscope telephoto + 8MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB"
+   ],
+   "water_resistance": "IP68/IP69",
+   "weight": null
+  },
+  "tagline": "Periscope zoom in the mid-range with cold-sensitive color-changing design.",
+  "videos": []
+ },
+ {
+  "brand": "realme",
+  "buy_links": [
+   {
+    "retailer": "realme",
+    "url": "https://www.realme.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "realme GT 6",
+  "price_usd": null,
+  "slug": "realme-gt-6",
+  "sources": [
+   "https://www.realme.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5500mAh",
+   "charging": "120W wired",
+   "chipset": "Snapdragon 8s Gen 3",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "realme UI 5 (Android 14)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 2x telephoto + 8MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB"
+   ],
+   "water_resistance": null,
+   "weight": null
+  },
+  "tagline": "2024 performance flagship: 6000-nit display and 120W charging.",
+  "videos": []
+ },
+ {
+  "brand": "ASUS",
+  "buy_links": [
+   {
+    "retailer": "ASUS",
+    "url": "https://www.asus.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://dlcdnwebimgs.asus.com/gain/88FD77A4-0071-40FC-AB16-8FCE74A7129A/w1000/h732",
+   "https://store.asus.com/jp/media/catalog/product/r/o/rog_phone9_black-09.jpg"
+  ],
+  "name": "ROG Phone 9",
+  "price_usd": 1000,
+  "slug": "asus-rog-phone-9",
+  "sources": [
+   "https://www.asus.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5800mAh",
+   "charging": "65W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "ROG UI (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 13MP ultra-wide + 5MP macro",
+   "refresh_rate": "185Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Gaming flagship: 185Hz display, AirTrigger controls and AniMe Vision LEDs.",
+  "videos": []
+ },
+ {
+  "brand": "ASUS",
+  "buy_links": [
+   {
+    "retailer": "ASUS",
+    "url": "https://www.asus.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "ROG Phone 9 Pro",
+  "price_usd": 1200,
+  "slug": "asus-rog-phone-9-pro",
+  "sources": [
+   "https://www.asus.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5800mAh",
+   "charging": "65W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "ROG UI (Android 15)",
+   "ram": "16GB",
+   "rear_cameras": "50MP main + 13MP ultra-wide + 32MP 3x telephoto",
+   "refresh_rate": "185Hz",
+   "storage": [
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "The ultimate gaming phone: 24GB RAM option, telephoto camera and 185Hz display.",
+  "videos": []
+ },
+ {
+  "brand": "ASUS",
+  "buy_links": [
+   {
+    "retailer": "ASUS",
+    "url": "https://www.asus.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://dlcdnwebimgs.asus.com/gain/6c6890cc-2afd-480c-998a-b23cd9263963/w800/fwebp"
+  ],
+  "name": "Zenfone 12",
+  "price_usd": 900,
+  "slug": "asus-zenfone-12",
+  "sources": [
+   "https://www.asus.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5800mAh",
+   "charging": "65W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "ZenUI (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main (gimbal OIS) + 13MP ultra-wide",
+   "refresh_rate": "144Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "Everyday flagship with 6-axis gimbal stabilization and Snapdragon 8 Elite.",
+  "videos": []
+ },
+ {
+  "brand": "ASUS",
+  "buy_links": [
+   {
+    "retailer": "ASUS",
+    "url": "https://www.asus.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Zenfone 11 Ultra",
+  "price_usd": 900,
+  "slug": "asus-zenfone-11-ultra",
+  "sources": [
+   "https://www.asus.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5500mAh",
+   "charging": "65W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Gen 3",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "ZenUI (Android 14)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main (gimbal OIS) + 13MP ultra-wide + 32MP 3x telephoto",
+   "refresh_rate": "144Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 big-screen Zenfone: gimbal camera and 144Hz display.",
+  "videos": []
+ },
+ {
+  "brand": "Sony",
+  "buy_links": [
+   {
+    "retailer": "Sony",
+    "url": "https://www.sony.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Xperia 1 VII",
+  "price_usd": 1400,
+  "slug": "sony-xperia-1-vii",
+  "sources": [
+   "https://www.sony.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "30W wired, wireless",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.5-inch",
+   "display_type": "4K OLED 19.5:9",
+   "fingerprint": "Side-mounted",
+   "front_camera": "12MP",
+   "os": "Android 15",
+   "ram": "12GB",
+   "rear_cameras": "48MP main + 48MP ultra-wide + 12MP telephoto (Exmor T)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "For creators: 4K 120Hz display, Alpha camera tech and 3.5mm headphone jack.",
+  "videos": []
+ },
+ {
+  "brand": "Sony",
+  "buy_links": [
+   {
+    "retailer": "Sony",
+    "url": "https://www.sony.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Xperia 1 VI",
+  "price_usd": 1300,
+  "slug": "sony-xperia-1-vi",
+  "sources": [
+   "https://www.sony.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "30W wired, wireless",
+   "chipset": "Snapdragon 8 Gen 3",
+   "dimensions": null,
+   "display_size": "6.5-inch",
+   "display_type": "FHD+ OLED 19.5:9",
+   "fingerprint": "Side-mounted",
+   "front_camera": "12MP",
+   "os": "Android 14",
+   "ram": "12GB",
+   "rear_cameras": "48MP main + 12MP ultra-wide + 12MP 7.1x telephoto (Exmor T)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 Xperia flagship: 7.1x optical zoom and two-day battery life.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://images.samsung.com/is/image/samsung/assets/us/explore/05012024/04/02_GalaxyS24_MO.png?$720_N_PNG$"
+  ],
+  "name": "Galaxy S24",
+  "price_usd": 800,
+  "slug": "galaxy-s24",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4000mAh",
+   "charging": "25W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Gen 3 for Galaxy",
+   "dimensions": null,
+   "display_size": "6.2-inch",
+   "display_type": "Dynamic AMOLED 2X",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "12MP",
+   "os": "Android 14 (One UI 6.1)",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide + 10MP 3x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 compact Galaxy flagship with Galaxy AI from day one.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://images.samsung.com/us/smartphones/galaxy-s24-ultra/images/galaxy-s24-ultra-share-image.jpg"
+  ],
+  "name": "Galaxy S24 Ultra",
+  "price_usd": 1300,
+  "slug": "galaxy-s24-ultra",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "45W wired, 15W wireless",
+   "chipset": "Snapdragon 8 Gen 3 for Galaxy",
+   "dimensions": null,
+   "display_size": "6.8-inch",
+   "display_type": "Dynamic AMOLED 2X QHD+",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "12MP",
+   "os": "Android 14 (One UI 6.1)",
+   "ram": "12GB",
+   "rear_cameras": "200MP main + 50MP 5x telephoto + 12MP ultra-wide + 10MP 3x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 Ultra: titanium build, 200MP quad camera and embedded S Pen.",
+  "videos": []
+ },
+ {
+  "brand": "Samsung",
+  "buy_links": [
+   {
+    "retailer": "Samsung",
+    "url": "https://www.samsung.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Galaxy A55",
+  "price_usd": 450,
+  "slug": "galaxy-a55",
+  "sources": [
+   "https://www.samsung.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "25W wired",
+   "chipset": "Exynos 1480",
+   "dimensions": null,
+   "display_size": "6.6-inch",
+   "display_type": "Super AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "Android 14 (One UI 6.1)",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide + 5MP macro",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP67",
+   "weight": null
+  },
+  "tagline": "2024 mid-range favorite: metal frame, 120Hz AMOLED and Knox security.",
+  "videos": []
+ },
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "iPhone 15 Pro",
+  "price_usd": 999,
+  "slug": "iphone-15-pro",
+  "sources": [
+   "https://www.apple.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Apple A17 Pro",
+   "dimensions": null,
+   "display_size": "6.1-inch",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": "12MP",
+   "os": "iOS 17",
+   "ram": "8GB",
+   "rear_cameras": "48MP main + 12MP ultra-wide + 12MP 3x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2023 Pro: first titanium iPhone with A17 Pro and Action button.",
+  "videos": []
+ },
+ {
+  "brand": "Apple",
+  "buy_links": [
+   {
+    "retailer": "Apple",
+    "url": "https://www.apple.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "iPhone 15",
+  "price_usd": 799,
+  "slug": "iphone-15",
+  "sources": [
+   "https://www.apple.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": null,
+   "charging": null,
+   "chipset": "Apple A16 Bionic",
+   "dimensions": null,
+   "display_size": "6.1-inch",
+   "display_type": "Super Retina XDR OLED",
+   "fingerprint": "None - Face ID only",
+   "front_camera": "12MP",
+   "os": "iOS 17",
+   "ram": "6GB",
+   "rear_cameras": "48MP main + 12MP ultra-wide",
+   "refresh_rate": "60Hz",
+   "storage": [
+    "128GB",
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2023 standard iPhone: Dynamic Island and 48MP camera for everyone.",
+  "videos": []
+ },
+ {
+  "brand": "Google",
+  "buy_links": [
+   {
+    "retailer": "Google Store",
+    "url": "https://store.google.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Pixel 8 Pro",
+  "price_usd": 999,
+  "slug": "pixel-8-pro",
+  "sources": [
+   "https://store.google.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5050mAh",
+   "charging": "30W wired, 23W Qi wireless",
+   "chipset": "Google Tensor G3",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "Super Actua LTPO OLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "10.5MP",
+   "os": "Android 14",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 48MP ultra-wide + 48MP 5x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2023 camera flagship: triple 50MP-class cameras and 7 years of updates.",
+  "videos": []
+ },
+ {
+  "brand": "Google",
+  "buy_links": [
+   {
+    "retailer": "Google Store",
+    "url": "https://store.google.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://upload.wikimedia.org/wikipedia/commons/3/34/Google_Pixel_8_Rose_rear_bottom-left.jpg"
+  ],
+  "name": "Pixel 8",
+  "price_usd": 699,
+  "slug": "pixel-8",
+  "sources": [
+   "https://store.google.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4575mAh",
+   "charging": "27W wired, 18W Qi wireless",
+   "chipset": "Google Tensor G3",
+   "dimensions": null,
+   "display_size": "6.2-inch",
+   "display_type": "Actua OLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "10.5MP",
+   "os": "Android 14",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 12MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2023 compact Pixel: Tensor G3 AI photography in a 6.2-inch body.",
+  "videos": []
+ },
+ {
+  "brand": "Xiaomi",
+  "buy_links": [
+   {
+    "retailer": "Xiaomi",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://i02.appmifile.com/93_item_my/02/04/2024/b829f701f13aa3cf30d37880d371a25b.png",
+   "https://i02.appmifile.com/431_item_sg/22/10/2024/260e2d3ba3e4d7995022c27eecbf61df.png"
+  ],
+  "name": "Xiaomi 14",
+  "price_usd": null,
+  "slug": "xiaomi-14",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4610mAh",
+   "charging": "90W wired, 50W wireless",
+   "chipset": "Snapdragon 8 Gen 3",
+   "dimensions": null,
+   "display_size": "6.36-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "HyperOS (Android 14)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 3.2x telephoto (Leica)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 compact Leica flagship with 90W HyperCharge.",
+  "videos": []
+ },
+ {
+  "brand": "Xiaomi",
+  "buy_links": [
+   {
+    "retailer": "Xiaomi",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://i02.appmifile.com/mi-com-product/fly-birds/redmi-note-13-pro-5g/pc/bbc90f1f2380ecb35caf1d1fae9f7864.jpg"
+  ],
+  "name": "Redmi Note 13 Pro",
+  "price_usd": 299,
+  "slug": "redmi-note-13-pro",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5100mAh",
+   "charging": "67W wired",
+   "chipset": "Snapdragon 7s Gen 2",
+   "dimensions": null,
+   "display_size": "6.67-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "16MP",
+   "os": "HyperOS (Android 13)",
+   "ram": "8GB",
+   "rear_cameras": "200MP main + 8MP ultra-wide + 2MP macro",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP54",
+   "weight": null
+  },
+  "tagline": "2024 mid-range hit: 200MP camera and 67W turbo charging.",
+  "videos": []
+ },
+ {
+  "brand": "Xiaomi",
+  "buy_links": [
+   {
+    "retailer": "Xiaomi",
+    "url": "https://www.mi.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://cdn.cnbj1.fds.api.mi-img.com/product-images/xiaomi-mix-flip2_486789/images/1010.png"
+  ],
+  "name": "Xiaomi Mix Flip 2",
+  "price_usd": null,
+  "slug": "xiaomi-mix-flip-2",
+  "sources": [
+   "https://www.mi.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5165mAh",
+   "charging": "67W wired",
+   "chipset": "Snapdragon 8 Elite",
+   "dimensions": null,
+   "display_size": "6.86-inch inner + 4.01-inch cover",
+   "display_type": "Foldable AMOLED",
+   "fingerprint": "Side-mounted",
+   "front_camera": "32MP",
+   "os": "HyperOS 2 (Android 15)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide (Leica)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": null,
+   "weight": null
+  },
+  "tagline": "Xiaomi's 2025 flip foldable: Leica cameras and a full-size 4.01-inch cover screen.",
+  "videos": []
+ },
+ {
+  "brand": "OnePlus",
+  "buy_links": [
+   {
+    "retailer": "OnePlus",
+    "url": "https://www.oneplus.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "OnePlus 11",
+  "price_usd": 699,
+  "slug": "oneplus-11",
+  "sources": [
+   "https://www.oneplus.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "100W wired",
+   "chipset": "Snapdragon 8 Gen 2",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "LTPO AMOLED QHD+",
+   "fingerprint": "In-display optical",
+   "front_camera": "16MP",
+   "os": "Android 13 (OxygenOS 13)",
+   "ram": "8GB",
+   "rear_cameras": "50MP main + 48MP ultra-wide + 32MP 2x telephoto (Hasselblad)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "128GB",
+    "256GB"
+   ],
+   "water_resistance": "IP64",
+   "weight": null
+  },
+  "tagline": "2023 flagship: Hasselblad cameras and 100W SUPERVOOC charging.",
+  "videos": []
+ },
+ {
+  "brand": "Motorola",
+  "buy_links": [
+   {
+    "retailer": "Motorola",
+    "url": "https://www.motorola.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   },
+   {
+    "retailer": "Best Buy",
+    "url": "https://www.bestbuy.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "Motorola Razr+ 2024",
+  "price_usd": 1000,
+  "slug": "motorola-razr-plus-2024",
+  "sources": [
+   "https://www.motorola.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "4000mAh",
+   "charging": "45W wired, 15W wireless",
+   "chipset": "Snapdragon 8s Gen 3",
+   "dimensions": null,
+   "display_size": "6.9-inch inner + 4.0-inch cover",
+   "display_type": "pOLED foldable",
+   "fingerprint": "Side-mounted",
+   "front_camera": "32MP",
+   "os": "Android 14",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 2x telephoto",
+   "refresh_rate": "165Hz",
+   "storage": [
+    "256GB"
+   ],
+   "water_resistance": "IPX8",
+   "weight": null
+  },
+  "tagline": "2024 flip icon: largest cover screen and dual 50MP cameras.",
+  "videos": []
+ },
+ {
+  "brand": "Motorola",
+  "buy_links": [
+   {
+    "retailer": "Motorola",
+    "url": "https://www.motorola.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://p2-ofp.static.pub//fes/cms/2026/05/13/euljg5dn5to8th68gngw46ft76e51s802165.png"
+  ],
+  "name": "Motorola Edge 60 Pro",
+  "price_usd": null,
+  "slug": "motorola-edge-60-pro",
+  "sources": [
+   "https://www.motorola.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "6000mAh",
+   "charging": "90W wired, 15W wireless",
+   "chipset": "MediaTek Dimensity 8350",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "pOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "Android 15",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 10MP 3x telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2025 Edge flagship: 6000mAh battery, 90W TurboPower and Pantone-validated display.",
+  "videos": []
+ },
+ {
+  "brand": "HONOR",
+  "buy_links": [
+   {
+    "retailer": "HONOR",
+    "url": "https://www.honor.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://www.honor.com/content/dam/honor/kw-en/product-list/smartphone/honor-magic6-pro/honor-magic6-pro-green.png"
+  ],
+  "name": "HONOR Magic 6 Pro",
+  "price_usd": null,
+  "slug": "honor-magic-6-pro",
+  "sources": [
+   "https://www.honor.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5600mAh",
+   "charging": "80W wired, 66W wireless",
+   "chipset": "Snapdragon 8 Gen 3",
+   "dimensions": null,
+   "display_size": "6.8-inch",
+   "display_type": "LTPO OLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "MagicOS 8 (Android 14)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 180MP 2.5x periscope telephoto",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 AI flagship: 180MP periscope zoom and silicon-carbon battery.",
+  "videos": []
+ },
+ {
+  "brand": "HONOR",
+  "buy_links": [
+   {
+    "retailer": "HONOR",
+    "url": "https://www.honor.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "HONOR 200 Pro",
+  "price_usd": null,
+  "slug": "honor-200-pro",
+  "sources": [
+   "https://www.honor.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5200mAh",
+   "charging": "100W wired, 66W wireless",
+   "chipset": "Snapdragon 8s Gen 3",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "OLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "MagicOS 8 (Android 14)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 2.5x telephoto + 12MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": null,
+   "weight": null
+  },
+  "tagline": "Portrait master: Harcourt studio portrait modes and 100W charging.",
+  "videos": []
+ },
+ {
+  "brand": "vivo",
+  "buy_links": [
+   {
+    "retailer": "vivo",
+    "url": "https://www.vivo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "vivo X100 Ultra",
+  "price_usd": null,
+  "slug": "vivo-x100-ultra",
+  "sources": [
+   "https://www.vivo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5500mAh",
+   "charging": "80W wired, 30W wireless",
+   "chipset": "Snapdragon 8 Gen 3",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED 2K",
+   "fingerprint": "In-display ultrasonic",
+   "front_camera": "50MP",
+   "os": "OriginOS 4 (Android 14)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 200MP 3.7x periscope telephoto (ZEISS)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB",
+    "1TB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 camera monster: 200MP ZEISS telephoto with 1-inch-class main sensor.",
+  "videos": []
+ },
+ {
+  "brand": "vivo",
+  "buy_links": [
+   {
+    "retailer": "vivo",
+    "url": "https://www.vivo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://asia-exstatic-vivofs.vivo.com/PSee2l50xoirPK7y/product/1703238415288/zip/img/section4-phone-pro-black-mb.jpg",
+   "https://asia-exshopstatic-vivofs.vivo.com/KuCZNhz3cVxH4yrP/tw/1708944922738/d51e0c4002cff75d1f2fbe117cd95346.png_w390-h390.webp"
+  ],
+  "name": "vivo X100 Pro",
+  "price_usd": null,
+  "slug": "vivo-x100-pro",
+  "sources": [
+   "https://www.vivo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5400mAh",
+   "charging": "100W wired, 50W wireless",
+   "chipset": "MediaTek Dimensity 9300",
+   "dimensions": null,
+   "display_size": "6.78-inch",
+   "display_type": "LTPO AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "Funtouch OS 14 (Android 14)",
+   "ram": "16GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 4.3x periscope telephoto (ZEISS)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 ZEISS flagship: floating periscope telephoto and Dimensity 9300.",
+  "videos": []
+ },
+ {
+  "brand": "OPPO",
+  "buy_links": [
+   {
+    "retailer": "OPPO",
+    "url": "https://www.oppo.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://www.oppo.com/content/dam/oppo/common/mkt/v2-2/find-x7-series-cn/listpage/find-x7-ultra-427_600-blue.png"
+  ],
+  "name": "OPPO Find X7 Ultra",
+  "price_usd": null,
+  "slug": "oppo-find-x7-ultra",
+  "sources": [
+   "https://www.oppo.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "100W wired, 50W wireless",
+   "chipset": "Snapdragon 8 Gen 3",
+   "dimensions": null,
+   "display_size": "6.82-inch",
+   "display_type": "LTPO AMOLED 2K",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "ColorOS 14 (Android 14)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide + 50MP 3x telephoto + 50MP 6x periscope (Hasselblad)",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP68",
+   "weight": null
+  },
+  "tagline": "2024 dual-periscope flagship with Hasselblad color science.",
+  "videos": []
+ },
+ {
+  "brand": "realme",
+  "buy_links": [
+   {
+    "retailer": "realme",
+    "url": "https://www.realme.com"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [],
+  "name": "realme 13 Pro+",
+  "price_usd": null,
+  "slug": "realme-13-pro-plus",
+  "sources": [
+   "https://www.realme.com"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5200mAh",
+   "charging": "80W wired",
+   "chipset": "Snapdragon 7s Gen 2",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "32MP",
+   "os": "realme UI 5 (Android 14)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP 3x periscope telephoto + 8MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB",
+    "512GB"
+   ],
+   "water_resistance": "IP65",
+   "weight": null
+  },
+  "tagline": "Mid-range periscope zoom with AI photography features.",
+  "videos": []
+ },
+ {
+  "brand": "Nothing",
+  "buy_links": [
+   {
+    "retailer": "Nothing",
+    "url": "https://nothing.tech"
+   },
+   {
+    "retailer": "Amazon",
+    "url": "https://www.amazon.com"
+   }
+  ],
+  "category": "smartphones",
+  "images": [
+   "https://cdn.shopify.com/s/files/1/0376/5420/0459/files/0000s_0015_Phone-2a-Plus-grey.png?v=1753436850"
+  ],
+  "name": "Nothing Phone (2a) Plus",
+  "price_usd": 399,
+  "slug": "nothing-phone-2a-plus",
+  "sources": [
+   "https://nothing.tech"
+  ],
+  "specs": {
+   "5g": true,
+   "battery": "5000mAh",
+   "charging": "50W wired",
+   "chipset": "MediaTek Dimensity 7350 Pro",
+   "dimensions": null,
+   "display_size": "6.7-inch",
+   "display_type": "AMOLED",
+   "fingerprint": "In-display optical",
+   "front_camera": "50MP",
+   "os": "Android 14 (Nothing OS 2.6)",
+   "ram": "12GB",
+   "rear_cameras": "50MP main + 50MP ultra-wide",
+   "refresh_rate": "120Hz",
+   "storage": [
+    "256GB"
+   ],
+   "water_resistance": "IP54",
+   "weight": null
+  },
+  "tagline": "2024 mid-range icon: Glyph Interface and flagship-style cameras for $399.",
+  "videos": []
+ }
+]

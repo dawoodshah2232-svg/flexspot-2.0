@@ -1,0 +1,26 @@
+/* ---- Scroll-triggered reveal (transform/opacity only) ---- */
+.reveal {
+  opacity: 0;
+  transition:
+    opacity 640ms var(--ease-out) var(--reveal-delay, 0ms),
+    transform 640ms var(--ease-out) var(--reveal-delay, 0ms);
+  will-change: opacity, transform;
+}
+
+.reveal--up { transform: translateY(26px); }
+.reveal--fade { transform: none; }
+
+.reveal.is-visible {
+  opacity: 1;
+  transform: none;
+  will-change: auto;
+}
+
+/* Reduced motion: static but complete — content always visible. */
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}

@@ -1,0 +1,50 @@
+/* ---- AdSlot placeholders (no real ad code) ---- */
+.adslot {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.35rem;
+  border: 1px dashed var(--color-gold-deep);
+  border-radius: var(--radius-md);
+  background: rgba(212, 175, 55, 0.04);
+  text-align: center;
+  padding: var(--space-4);
+}
+
+.adslot__label {
+  font-size: var(--text-xs);
+  font-weight: var(--weight-bold);
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--color-text-faint);
+}
+
+.adslot__note {
+  font-size: var(--text-xs);
+  color: var(--color-text-faint);
+}
+
+/* Below-header leaderboard: slim, full container width. */
+.adslot--leaderboard {
+  min-height: 5.625rem; /* 90px */
+  margin: var(--space-4) auto;
+  max-width: var(--max-width);
+  width: calc(100% - var(--space-8));
+}
+@media (max-width: 47.99rem) {
+  .adslot--leaderboard { min-height: 6.25rem; } /* 320x100 mobile */
+}
+
+/* In-feed: behaves like a grid card. */
+.adslot--infeed {
+  min-height: 100%;
+  height: 100%;
+}
+
+/* In-article: centered, content-column width. */
+.adslot--inarticle {
+  min-height: 15.625rem; /* ~336x280 */
+  margin: var(--space-12) auto;
+  max-width: 36rem;
+}

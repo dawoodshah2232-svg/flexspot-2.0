@@ -1,0 +1,64 @@
+.searchbar { position: relative; width: 100%; max-width: 42rem; margin-inline: auto; }
+.searchbar__form {
+  display: flex;
+  align-items: center;
+  gap: var(--space-2);
+  background: var(--color-bg-raised);
+  border: 1px solid var(--color-gold-deep);
+  border-radius: var(--radius-pill);
+  padding: 0.35rem 0.35rem 0.35rem 1rem;
+}
+.searchbar--large .searchbar__form { padding: 0.5rem 0.5rem 0.5rem 1.25rem; }
+.searchbar__icon { color: var(--color-gold); font-size: 1.25rem; line-height: 1; }
+.searchbar__form input {
+  flex: 1;
+  min-width: 0;
+  background: transparent;
+  border: none;
+  color: var(--color-text);
+  font-size: var(--text-base);
+  outline: none;
+}
+.searchbar__form input::placeholder { color: var(--color-text-faint); }
+.searchbar__form input::-webkit-search-cancel-button { filter: invert(0.7); }
+.searchbar__btn {
+  background: var(--color-gold);
+  color: #14100a;
+  border: none;
+  border-radius: var(--radius-pill);
+  padding: 0.6rem 1.4rem;
+  font-weight: var(--weight-bold);
+  white-space: nowrap;
+}
+.searchbar__btn:hover { background: var(--color-gold-soft); }
+.searchbar__suggest {
+  position: absolute;
+  z-index: 50;
+  top: calc(100% + 0.5rem);
+  left: 0; right: 0;
+  margin: 0;
+  padding: 0.5rem;
+  list-style: none;
+  background: var(--color-bg-raised);
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 18px 48px rgba(0, 0, 0, 0.6);
+}
+.searchbar__suggest button {
+  width: 100%;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-3);
+  background: transparent;
+  border: none;
+  color: var(--color-text);
+  text-align: left;
+  padding: 0.6rem 0.8rem;
+  border-radius: var(--radius-md);
+}
+.searchbar__suggest button:hover,
+.searchbar__suggest button.is-active { background: rgba(212, 175, 55, 0.12); }
+.searchbar__suggest-name { font-weight: var(--weight-semibold); }
+.searchbar__suggest-brand { font-size: var(--text-xs); color: var(--color-text-faint); }
+.searchbar__suggest-all { color: var(--color-gold-soft); font-weight: var(--weight-semibold); }

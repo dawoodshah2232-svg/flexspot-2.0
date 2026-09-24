@@ -1,0 +1,42 @@
+/* ---- Back-to-top floating button ---- */
+.to-top {
+  position: fixed;
+  right: var(--space-4);
+  bottom: var(--space-4);
+  z-index: 90;
+  width: 2.75rem;
+  height: 2.75rem;
+  border-radius: 50%;
+  border: 1px solid var(--color-gold-deep);
+  background: rgba(18, 22, 31, 0.92);
+  color: var(--color-gold-soft);
+  font-size: var(--text-lg);
+  line-height: 1;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transform: translateY(12px);
+  pointer-events: none;
+  transition:
+    opacity var(--duration-base) var(--ease-out),
+    transform var(--duration-base) var(--ease-out);
+  backdrop-filter: blur(8px);
+  -webkit-backdrop-filter: blur(8px);
+}
+
+.to-top--visible {
+  opacity: 1;
+  transform: none;
+  pointer-events: auto;
+}
+
+.to-top:hover {
+  background: var(--color-gold);
+  color: #14100a;
+  border-color: var(--color-gold);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .to-top { transition: none; }
+}

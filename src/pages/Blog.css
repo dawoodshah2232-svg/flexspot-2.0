@@ -1,0 +1,51 @@
+.blog-tools { display: grid; gap: var(--space-4); margin-bottom: var(--space-8); }
+.blog-tools__search {
+  width: 100%;
+  max-width: 32rem;
+  background: var(--color-bg-raised);
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-pill);
+  padding: 0.7rem 1.25rem;
+  color: var(--color-text);
+  font-size: var(--text-base);
+}
+.blog-tools__search::placeholder { color: var(--color-text-faint); }
+.blog-tools__search:focus { outline: 2px solid var(--color-gold); outline-offset: 2px; border-color: var(--color-gold); }
+
+/* ---- Blog post layout ---- */
+.post-layout { display: grid; gap: var(--space-8); margin-bottom: var(--space-16); }
+@media (min-width: 64rem) {
+  .post-layout { grid-template-columns: minmax(0, 1fr) 16rem; align-items: start; }
+}
+.post-meta { display: flex; flex-wrap: wrap; gap: var(--space-3); align-items: center; color: var(--color-text-faint); font-size: var(--text-sm); margin: 0 0 var(--space-6); }
+.post-meta__cat { color: var(--color-gold-soft); font-weight: var(--weight-bold); text-transform: uppercase; letter-spacing: 0.08em; font-size: var(--text-xs); }
+.post-tags { display: flex; flex-wrap: wrap; gap: var(--space-2); margin-top: var(--space-6); }
+.toc {
+  position: sticky;
+  top: calc(var(--header-height) + var(--space-4));
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-lg);
+  background: var(--color-bg-raised);
+  padding: var(--space-4) var(--space-6);
+  font-size: var(--text-sm);
+}
+.toc h2 { font-size: var(--text-sm); margin: 0 0 var(--space-2); color: var(--color-gold-soft); text-transform: uppercase; letter-spacing: 0.08em; }
+.toc ol { margin: 0; padding-left: 1.2rem; }
+.toc li { margin-bottom: 0.4rem; }
+.toc a { color: var(--color-text-muted); }
+.toc a:hover { color: var(--color-gold-soft); }
+.post-nav { display: grid; gap: var(--space-3); margin: var(--space-8) 0; }
+@media (min-width: 48rem) { .post-nav { grid-template-columns: 1fr 1fr; } }
+.post-nav a {
+  display: block;
+  border: 1px solid var(--color-line);
+  border-radius: var(--radius-lg);
+  padding: var(--space-4) var(--space-6);
+  background: var(--color-bg-raised);
+  color: inherit;
+}
+.post-nav a:hover { text-decoration: none; border-color: var(--color-gold-deep); }
+.post-nav__dir { display: block; font-size: var(--text-xs); color: var(--color-gold-soft); text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 0.25rem; }
+.post-nav__title { font-weight: var(--weight-bold); }
+.post-nav__next { text-align: right; }
+.related-products h2 { margin-bottom: var(--space-6); }
