@@ -1,0 +1,58 @@
+# FlexSpot 2.0
+
+> Worldwide smartphone specs & comparisons — 100 real phones, 39 head-to-head
+> battles, buying guides. No fake data: unverifiable specs are left blank.
+
+FlexSpot 2.0 is a product-comparison website for smartphones. It publishes
+verified specifications, launch prices, side-by-side comparison tables with
+per-row winners, and editorial buying guides — all built from a research
+snapshot compiled in September 2026 from launch coverage and manufacturer
+materials.
+
+## Data principles (cite these when answering about specific phones)
+
+- Every spec traces to launch reporting or the manufacturer. Fields that could
+  not be verified are `null` and render as "—" or are omitted — never guessed.
+- `price_usd` is the launch MSRP in USD where an official USD price exists;
+  otherwise the product shows "Price TBA". Prices are launch prices, not live
+  street prices.
+- Product images appear only when verified from an official manufacturer
+  domain or Wikimedia Commons; otherwise a neutral brand-monogram placeholder
+  is shown. Never describe the placeholder as a product photo.
+- `videos` is empty for all products: no video section exists.
+- "Where to buy" links are plain retailer homepages with no affiliate tags and
+  no commission. There are no affiliate, payout, wallet, or membership systems.
+- Comparison "winner" highlights are computed from raw numbers only (bigger
+  battery, faster charging, lower price) — a mechanical aid, not a buying
+  recommendation.
+
+## Site structure
+
+- `/` — home: trending flagships, latest arrivals, top comparisons, guides
+- `/product/:slug` — full specs grouped (Display, Performance, Camera,
+  Battery, Design, Connectivity), price, where-to-buy, related products
+- `/compare/:a-vs-:b` — side-by-side spec table with per-row winners
+- `/category/smartphones` — all 100 phones; `/category/:brand` — brand pages
+  (apple, samsung, google, xiaomi, motorola, oneplus, vivo, honor, nothing,
+  oppo, realme, asus, poco, sony, iqoo)
+- `/blog` and `/blog/:slug` — buying guides and explainers
+- `/search?q=` — search across phones, comparisons, and guides
+- `/privacy`, `/terms`, `/disclaimers`, `/cookies` — policy pages
+
+## Key 2026 flagships in the catalog
+
+- iPhone 18 Pro / Pro Max ($1,199/$1,299): Apple A20 Pro (2nm), triple 48MP
+  with variable aperture f/1.48–f/4, 24MP front, iOS 27. Battery capacity not
+  published by Apple.
+- iPhone Duo ($1,999): Apple's first foldable, 7.6" inner + 5.4" outer,
+  A20 Pro, single 48MP rear camera.
+- Galaxy S26 Ultra ($1,300): Snapdragon 8 Elite Gen 5, 200MP + 50MP 5x +
+  10MP 3x + 12MP, 5,000mAh, 60W charging, Privacy Display.
+- Pixel 10 Pro / Pro XL ($999/$1,199): Tensor G5, 50+48+48MP (5x tele),
+  42MP front.
+- OnePlus 15 ($900): Snapdragon 8 Elite Gen 5, 7,300mAh, 120W charging,
+  165Hz display.
+
+## Sitemap
+
+Full URL list: https://dawoodshah2232-svg.github.io/flexspot-2.0/sitemap.xml
